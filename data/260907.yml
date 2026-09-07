@@ -5,13 +5,13 @@ about:
   head: e5a73c5
   archived: false
   latestVersion: "v0.25.1"
-  collectedAt: 2026-09-07T05:55:06Z
+  collectedAt: 2026-09-07T18:31:45Z
 timeline:
   created: 2021-07-24
   lastCommit: 2026-09-01
   lastRelease: 2026-08-19
 popularity:
-  star: 2243
+  star: 2244
   watcher: 21
   fork: 95
   release: 127
@@ -67,20 +67,20 @@ recent:
     since: 2024-09-17
     release: 20
     mergedPR: 62
-    openPR: 4
+    openPR: 3
     closedIssue: 39
     openIssue: 13
     commit: 816
 total:
   release: 127
   mergedPR: 209
-  openPR: 4
+  openPR: 3
   closedIssue: 293
   openIssue: 106
   commit: 3786
 ---
 path: /home/runner/.x-repo/github.com/varabyte/kobweb
-collectedAt: 2026-09-07T05:55:09Z
+collectedAt: 2026-09-07T18:31:48Z
 loc:
   Kotlin:
     code: 40863
@@ -136,7 +136,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:55:09+00:00
+  collectedAt: 2026-09-07T18:31:48+00:00
   platform:
     darwin/arm64:
       name:  null
