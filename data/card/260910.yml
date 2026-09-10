@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.25.1"
   latestRelease: "v0.25.1"
   latestPrerelease: "v0.13.7"
-  collectedAt: 2026-09-10T20:30:27Z
+  collectedAt: 2026-09-10T23:15:55Z
 timeline:
   created: 2021-07-24
   lastCommit: 2026-09-01
@@ -84,7 +84,7 @@ total:
   commit: 3786
 ---
 path: /home/runner/.x-repo/github.com/varabyte/kobweb
-collectedAt: 2026-09-10T20:30:30Z
+collectedAt: 2026-09-10T23:16:00Z
 loc:
   Kotlin:
     code: 40863
