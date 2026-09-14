@@ -37,7 +37,7 @@ Total: **43,120** lines of code across **574** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,244 · **Forks**: 95 · **Open issues**: 399 · **Contributors**: 31
+- **Stars**: 2,245 · **Forks**: 95 · **Open issues**: 399 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -47,16 +47,12 @@ Total: **43,120** lines of code across **574** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 1 | 0 | 0 | 1 | 3 |
-| last60d | 2026-07-15 | 1 | 1 | 0 | 3 | 3 | 68 |
-| 90d | 2026-06-15 | 3 | 1 | 0 | 3 | 3 | 135 |
-| last180d | 2026-03-17 | 3 | 2 | 0 | 5 | 3 | 174 |
-| 360d | 2025-09-18 | 4 | 16 | 0 | 12 | 4 | 239 |
-| last720d | 2024-09-23 | 19 | 62 | 3 | 39 | 13 | 810 |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/kobweb). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+| 30d | 2026-08-15 | 1 | 1 | 0 | 0 | 1 | 3 |
+| last60d | 2026-07-16 | 1 | 1 | 0 | 3 | 3 | 68 |
+| 90d | 2026-06-16 | 3 | 1 | 0 | 3 | 3 | 135 |
+| last180d | 2026-03-18 | 3 | 2 | 0 | 5 | 3 | 174 |
+| 360d | 2025-09-19 | 4 | 16 | 0 | 12 | 4 | 239 |
+| last720d | 2024-09-24 | 19 | 62 | 3 | 39 | 13 | 810 |
 
 ## Improve this data
 
@@ -67,4 +63,4 @@ Install metadata for kobweb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:07:52Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:18:46Z._
