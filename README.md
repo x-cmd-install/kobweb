@@ -4,7 +4,7 @@
 
 A modern framework for full stack web apps in Kotlin, built upon Compose HTML
 
-![kobweb](https://repo.x-cmd.io/kobweb.svg)
+[![x-cmd/install — kobweb Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kobweb.svg)](https://x-cmd.com/install/kobweb)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **43,120** lines of code across **574** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,246 · **Forks**: 96 · **Open issues**: 399 · **Contributors**: 31
+- **Stars**: 2,247 · **Forks**: 96 · **Open issues**: 399 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **43,120** lines of code across **574** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 1 | 0 | 0 | 1 | 7 |
-| last60d | 2026-07-20 | 1 | 1 | 0 | 3 | 3 | 72 |
-| 90d | 2026-06-20 | 3 | 1 | 0 | 3 | 3 | 139 |
-| last180d | 2026-03-22 | 3 | 2 | 0 | 5 | 3 | 178 |
-| 360d | 2025-09-23 | 4 | 16 | 0 | 12 | 4 | 243 |
-| last720d | 2024-09-28 | 19 | 62 | 3 | 39 | 13 | 814 |
+| 30d | 2026-08-21 | 0 | 1 | 0 | 0 | 1 | 7 |
+| last60d | 2026-07-22 | 1 | 1 | 0 | 3 | 3 | 72 |
+| 90d | 2026-06-22 | 3 | 1 | 0 | 3 | 3 | 123 |
+| last180d | 2026-03-24 | 3 | 2 | 0 | 5 | 3 | 178 |
+| 360d | 2025-09-25 | 4 | 16 | 0 | 12 | 3 | 241 |
+| last720d | 2024-09-30 | 19 | 62 | 3 | 39 | 13 | 814 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for kobweb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:17:09Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:13:54Z._
