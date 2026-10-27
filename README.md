@@ -14,12 +14,12 @@ x install kobweb
 
 ## Code insight
 
-Total: **43,120** lines of code across **574** files in the top 5 languages.
+Total: **43,544** lines of code across **576** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Kotlin | 40,863 | 12,628 | 7,377 | 567 |
-| Json | 1,750 | 0 | 0 | 1 |
+| Kotlin | 41,039 | 12,652 | 7,401 | 568 |
+| Json | 1,998 | 0 | 0 | 2 |
 | Sh | 210 | 238 | 52 | 2 |
 | Batch | 137 | 0 | 39 | 2 |
 | Toml | 106 | 1 | 5 | 2 |
@@ -33,26 +33,26 @@ Total: **43,120** lines of code across **574** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.25.1` (2026-08-19)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-10-27
 
 ## Popularity
 
-- **Stars**: 2,255 · **Forks**: 96 · **Open issues**: 398 · **Contributors**: 31
+- **Stars**: 2,255 · **Forks**: 96 · **Open issues**: 398 · **Contributors**: 32
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 209 · **Open PRs**: 4 · **Closed issues**: 293 · **Open issues**: 105 · **Commits**: 3790
+- **Releases**: 127 · **Merged PRs**: 209 · **Open PRs**: 4 · **Closed issues**: 293 · **Open issues**: 105 · **Commits**: 3791
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 0 | 1 | 1 | 1 | 0 | 4 |
-| 90d | 2026-07-28 | 1 | 1 | 1 | 3 | 2 | 65 |
-| last180d | 2026-04-29 | 3 | 1 | 1 | 4 | 2 | 170 |
-| 360d | 2025-10-31 | 4 | 14 | 1 | 7 | 2 | 225 |
-| last720d | 2024-11-05 | 19 | 58 | 4 | 39 | 12 | 787 |
+| 30d | 2026-09-27 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-08-28 | 0 | 1 | 1 | 1 | 0 | 5 |
+| 90d | 2026-07-29 | 1 | 1 | 1 | 3 | 2 | 66 |
+| last180d | 2026-04-30 | 3 | 1 | 1 | 4 | 2 | 171 |
+| 360d | 2025-11-01 | 4 | 14 | 1 | 7 | 2 | 226 |
+| last720d | 2024-11-06 | 19 | 58 | 4 | 39 | 12 | 788 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for kobweb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:53:14Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:14:38Z._
