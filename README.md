@@ -47,12 +47,12 @@ Total: **43,544** lines of code across **576** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-02 | 0 | 1 | 1 | 1 | 0 | 5 |
-| 90d | 2026-08-03 | 1 | 1 | 1 | 2 | 1 | 38 |
-| last180d | 2026-05-05 | 3 | 1 | 1 | 4 | 2 | 171 |
-| 360d | 2025-11-06 | 4 | 14 | 1 | 7 | 2 | 222 |
-| last720d | 2024-11-11 | 19 | 58 | 4 | 39 | 12 | 788 |
+| 30d | 2026-10-03 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-03 | 0 | 1 | 1 | 1 | 0 | 5 |
+| 90d | 2026-08-04 | 1 | 1 | 1 | 1 | 1 | 38 |
+| last180d | 2026-05-06 | 3 | 1 | 1 | 4 | 2 | 171 |
+| 360d | 2025-11-07 | 4 | 14 | 1 | 7 | 2 | 222 |
+| last720d | 2024-11-12 | 19 | 58 | 4 | 39 | 12 | 784 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for kobweb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:09:47Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:17:19Z._
