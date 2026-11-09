@@ -37,7 +37,7 @@ Total: **43,544** lines of code across **576** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,257 · **Forks**: 96 · **Open issues**: 399 · **Contributors**: 32
+- **Stars**: 2,259 · **Forks**: 96 · **Open issues**: 399 · **Contributors**: 32
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **43,544** lines of code across **576** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 1 | 1 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 1 | 1 |
-| 90d | 2026-08-10 | 1 | 1 | 0 | 1 | 1 | 22 |
-| last180d | 2026-05-12 | 3 | 1 | 0 | 3 | 3 | 168 |
-| 360d | 2025-11-13 | 4 | 14 | 0 | 7 | 3 | 222 |
-| last720d | 2024-11-18 | 18 | 58 | 3 | 38 | 12 | 773 |
+| 30d | 2026-10-10 | 0 | 0 | 0 | 0 | 1 | 1 |
+| last60d | 2026-09-10 | 0 | 0 | 0 | 0 | 1 | 1 |
+| 90d | 2026-08-11 | 1 | 1 | 0 | 1 | 1 | 22 |
+| last180d | 2026-05-13 | 3 | 1 | 0 | 3 | 3 | 168 |
+| 360d | 2025-11-14 | 4 | 14 | 0 | 7 | 3 | 222 |
+| last720d | 2024-11-19 | 18 | 58 | 3 | 38 | 12 | 773 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for kobweb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:05:55Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:41:23Z._
